@@ -1,0 +1,14 @@
+{
+  "name": "platzi-jest-course",
+  "version": "1.0.0",
+  "description": "jest course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
